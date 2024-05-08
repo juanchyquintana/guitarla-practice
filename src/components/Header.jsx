@@ -12,6 +12,7 @@ const Header = () => {
               />
             </a>
           </div>
+          
           <nav className="col-md-6 a mt-5 d-flex align-items-start justify-content-end">
             <div className="carrito">
               <img
